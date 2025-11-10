@@ -12,6 +12,7 @@ Electric Vehicles (EVs) are becoming increasingly popular worldwide.
 Accurately predicting their prices based on specifications helps consumers, researchers, and manufacturers understand market trends and value distribution.
 
 This project uses **Python** and **Machine Learning (Regression)** techniques to build a predictive model that estimates the EV price from technical specifications.
+https://github.com/pulapakatharangini/EV_price_prediction./blob/main/README.md
 
 ## 🧠 Objectives
 
